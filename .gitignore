@@ -1,0 +1,10 @@
+# Terraform
+.terraform
+.terraform.lock.hcl
+
+#You really shouldn't be using a local state file, especially if you are checking in your code.
+terraform.tfstate
+terraform.tfstate.backup
+
+#Don't want the service account file checked into Git
+service-account-secret.json
