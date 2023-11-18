@@ -1,6 +1,6 @@
 # GCP Terraform
 
-#### A simple GCP lab to setup GitHub Actions and GCP Container Registry (Deprecated) and GCP Artifact Registry
+#### A simple GCP lab to setup GitHub Actions and GCP Artifact Registry
 
 ![alt text](images/gcpterraform.png "Terraform all the things in GCP!")
 
